@@ -18,6 +18,7 @@ Get All Products
 - Endpoint: /products
 - Method: GET
 - Description: Retrieve a list of all products.
+- Endpoint http://localhost:9000/products
 - {
   - "name": "Product Name",
   - "price": "29.99",
