@@ -8,8 +8,35 @@ Welcome to the backend of our e-commerce application. This repository contains t
 
 - npm i
 - npm start
+  
+## Usage
 
-## test
+API Endpoints
+
+Get All Products
+
+- Endpoint: /products
+- Method: GET
+- Description: Retrieve a list of all products.
+
+Create a New Product
+
+- Endpoint: /products/create
+- Method: POST
+- Description: Create a new product.
+
+Get a Product by ID
+
+- Endpoint: /products/:id
+- Method: GET
+- Description: Retrieve a product by its ID.
+
+Update a Product
+
+- Endpoint: /products/:id
+- Method: PUT
+- Description: Update a product by its ID.
+
 
 Delete a Product
 
