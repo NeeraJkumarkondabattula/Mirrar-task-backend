@@ -25,12 +25,6 @@ Create a New Product
 - Method: POST
 - Description: Create a new product.
 
-Get a Product by ID
-
-- Endpoint: /products/:id
-- Method: GET
-- Description: Retrieve a product by its ID.
-
 Update a Product
 
 - Endpoint: /products/:id
