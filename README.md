@@ -32,12 +32,28 @@ Create a New Product
 - Endpoint: /products/create
 - Method: POST
 - Description: Create a new product.
+- Endpoint http://localhost:9000/products/create
+- {
+  - "name": "Product Name",
+  - "price": "29.99",
+  - "description": "Product Description",
+  - "category": "Electronics"
+  - "quantity":8"
+- }
 
 Update a Product
 
 - Endpoint: /products/:id
 - Method: PUT
 - Description: Update a product by its ID.
+- Endpoint http://localhost:9000/products/:id
+- {
+  - "name": "Product Name",
+  - "price": "29.99",
+  - "description": "Product Description",
+  - "category": "Electronics"
+  - "quantity":8"
+- }
 
 
 Delete a Product
@@ -45,6 +61,9 @@ Delete a Product
 - Endpoint: /products/:id
 - Method: DELETE
 - Description: Delete a product by its ID.
+- Endpoint http://localhost:9000/products/:id
+- {
+- }
 
 ## Table of Contents
 
