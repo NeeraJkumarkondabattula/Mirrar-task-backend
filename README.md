@@ -11,10 +11,11 @@ Welcome to the backend of our e-commerce application. This repository contains t
 
 ## test
 
--Delete a Product
-  Endpoint: /products/:id
-  Method: DELETE
-  Description: Delete a product by its ID.
+#Delete a Product
+
+-Endpoint: /products/:id
+-Method: DELETE
+-Description: Delete a product by its ID.
 
 ## Table of Contents
 
