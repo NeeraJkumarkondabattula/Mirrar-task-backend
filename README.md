@@ -4,6 +4,11 @@
 
 Welcome to the backend of our e-commerce application. This repository contains the server-side implementation that powers our online store, with CRUD operations for managing products. Please follow this guide to set up, configure, and use the backend services.
 
+## Run
+
+- npm i
+- npm start
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
