@@ -19,11 +19,11 @@ Get All Products
 - Method: GET
 - Description: Retrieve a list of all products.
 {
-  "name": "Product Name",
-  "price": "29.99",
-  "description": "Product Description",
-  "category": "Electronics"
-  "quantity":8"
+  - "name": "Product Name",
+  - "price": "29.99",
+  - "description": "Product Description",
+  - "category": "Electronics"
+  - "quantity":8"
 }
 
 Create a New Product
